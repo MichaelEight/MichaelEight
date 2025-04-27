@@ -1,4 +1,12 @@
-## Hi there 👋
+- 👋 Hi, I’m **@MichaelEight**
+- 👀 I’m interested in: **simulations, games, game editors, AI and anything connected to maths**
+- 🌱 I’m currently learning: **Typescript, Python, C# and C++**
+- 💞️ I’m looking to collaborate on: **basically anything listed above on the interests list**
+- 📫 How to reach me: **michaeleight822@gmail.com**
+- 🤔 About me: I became interested in programming around 2012. I am self-taught dev. I was mainly focused on C++ and C#, then shifted to web dev.
+- I've done mostly small and medium projects, but I have 2 bigger projects on my account - enhanced editor for Supreme Ruler game and Simple University System (SUS), meant to showcase solutions to my university's system problems.
+I speak both English and Polish, so feel free to write to me ^^
+
 
 <!--
 **MichaelEight/MichaelEight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
