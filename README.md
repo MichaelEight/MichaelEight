@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: **Typescript, Python, C# and C++**
 - 💞️ I’m looking to collaborate on: **basically anything listed above on the interests list**
 - 📫 How to reach me: **michaeleight822@gmail.com**
-- 🤔 About me: I became interested in programming around 2012. I've started as a self-taught dev, then I finished my bachelor degree in Computer Science. I was mainly focused on C++ and C#, then shifted to web dev.
+- 🤔 About me: I became interested in programming around 2012. I've started as a self-taught dev. I was mainly focused on C++ and C#, then shifted to TS. Then I finished my bachelor degree in Computer Science and started full time job as a web dev using Vue, TS and PHP.
 - I've done mostly small and medium projects, but I have 2 bigger projects on my account - enhanced editor for Supreme Ruler game and Simple University System (SUS), meant to showcase solutions to my university's system problems.
 I speak both English and Polish, so feel free to write to me ^^
 
